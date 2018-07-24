@@ -1,6 +1,8 @@
 # Request a Tutorial
 
-Are you yearning to learn a specific concept or technique? Or just what to share your ideas about interesting content you would like to see on [stacktips.com](https://stacktips.com) website? Create a GitHub issue in this repository and we will ask one of the expert to look into your request. 
+Are you yearning to learn a specific concept or technique? Or just what to share your ideas about an interesting content you would like to see on [stacktips.com](https://stacktips.com) website? 
+
+Open an issue in this repository and one of our editorial staff will look into your request. 
 
 ### How to request?
 * Visit [here](https://github.com/stacktipslab/request-a-tutorial/issues/new) to create new issue.
