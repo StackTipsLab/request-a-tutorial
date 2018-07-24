@@ -13,5 +13,5 @@ Open an issue in this repository and one of our editorial staff will look into y
 * **Title**: What's your requested tutorial about?
 * **Description**: Provide as many details as possible. If there are similar articles on the web but it can be made better, please add the URL. Please be as specific as you can
 
-* Please note, we will prioritize the tutorial request based on the category that might intrest our readers. Not necessary all requests will be considered for publication.*
+*Please note, we will prioritize the tutorial request based on the category that might intrest our readers. Not necessary all requests will be considered for publication.*
 
